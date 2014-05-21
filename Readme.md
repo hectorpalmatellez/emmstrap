@@ -1,18 +1,23 @@
 #Emmstrap
 
-Se me ocurrió porque estaba haciendo un acordeón y podría haber sido más rápido.
-La idea es recopilar fórmulas de [Emmet](http://emmet.io/) para [Twitter Bootstrap](https://github.com/twbs/bootstrap) que se copien al portapapeles para agilizar el prototipado y el avance de la humanidad hacia un futuro próspero.
+The main objective of this project is to speed up the bootstrapping process using [Twitter Bootstrap](https://github.com/twbs/bootstrap). Since we're civilized enough to use [Emmet](http://emmet.io/), we can do better.
 
-###Fórmulas incluidas
+###Included formulæ
 
-  * Botón que abre un modal.
+  * Modal + button for it.
   
-###Fórmulas que deberían incluirse
-  * Carrusel con dos _slides_.
-  * _Dropdown_.
-  * Tabs funcionales con contenido.
-  * Tooltips (4 alineaciones).
-  * Acordeón (_collapse_).
+###Formulœ that should be included (possibly they'll be added soon)
+  * Carousel - with 2 slides.
+  * Dropdown example.
+  * Tabs - with content.
+  * Tooltips - with its 4 forms.
+  * Collapse example.
 
-####Créditos
-Obviamente, a [Twitter Bootstrap](https://github.com/twbs/bootstrap) y [Emmet](http://emmet.io/), también a [zClip](https://github.com/patricklodder/jquery-zclip).
+####Credits
+Obviously, [Twitter Bootstrap](https://github.com/twbs/bootstrap) and [Emmet](http://emmet.io/). Also thanks to [zClip](https://github.com/patricklodder/jquery-zclip) for the _copy to clipboard_ function.
+
+####Resources
+For the development of this project has been used:
+
+  * [Emmet's cheatsheet](http://docs.emmet.io/cheat-sheet/).
+  * [Bootstrap's Javascript page](http://getbootstrap.com/javascript/).
