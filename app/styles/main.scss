@@ -40,9 +40,26 @@ a {
         clear: both;
     }
 }
-
-h1 {
-    text-align: center;
+.main-header {
+    background: {
+        color: $amarillo;
+    }
+    padding: {
+        top: 10px;
+    }
+    h1 {
+        text-align: center;
+        margin: {
+            top: 0;
+            bottom: 10px;
+        }
+        color: $verdeoscuro;
+        &+span {
+            text-align: center;
+            @extend .col-xs-12;
+            color: $verdeoscuro;
+        }
+    }
 }
 .un-ejemplo {
     .una-formula {

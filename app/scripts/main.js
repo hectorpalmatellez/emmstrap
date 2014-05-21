@@ -13,7 +13,7 @@ $(document).ready(function() {
     // Las formulas
     var formulas = ['button.btn.btn-primary.btn-lg[data-toggle="modal"][data-target="#elmodal"]{Abrir modal}', '.modal.fade#elmodal[tabindex="-1"][role="dialog"][aria-hidden="true"]>.modal-dialog>.modal-content>.modal-header>(button[type="button"].close[data-dismiss="modal"][aria-hidden="true"]{&times}+h4.modal-title)+^.modal-body>p^.modal-footer>button[type="button"].btn.btn-default[data-dismiss="modal"]{Close}+button[type="button"].btn.btn-primary{Save Changes}', 'button[type="button"].btn.btn-default[data-toggle="tooltip"][data-placement="left"][title="Tooltip on left"]{Tooltip on left}', 'button[type="button"].btn.btn-default[data-toggle="tooltip"][data-placement="right"][title="Tooltip on right"]{Tooltip on right}', 'button[type="button"].btn.btn-default[data-toggle="tooltip"][data-placement="top"][title="Tooltip on top"]{Tooltip on top}', 'button[type="button"].btn.btn-default[data-toggle="tooltip"][data-placement="bottom"][title="Tooltip on bottom"]{Tooltip on bottom}'];
 
-    // Asignar formulas a los inputs
+    // Asignar formulas al value de cada input
     $('.una-formula.f-bmodal .snippet').attr('value', formulas[0]);
     $('.una-formula.f-modal .snippet').attr('value', formulas[1]);
     $('.una-formula.tooltipleft .snippet').attr('value', formulas[2]);
