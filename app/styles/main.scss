@@ -3,6 +3,7 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 // bower:scss
 @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
+@import 'colores';
 
 @import url(http://fonts.googleapis.com/css?family=Tenor+Sans|Roboto:400,300);
 %tenor-sans {
@@ -14,9 +15,29 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 
 h1, h2, h3, h4, h5, h6 {
     @extend %roboto;
+    color: $oscuro;
 }
 body {
     @extend %tenor-sans;
+    background: {
+        color: $verdeclaro;
+        image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=');
+    }
+}
+a {
+    color: $naranjo;
+    text-decoration: underline;
+    &.abtn {
+        display: block;
+        padding: 3px;
+        border-radius: 5px;
+        background: {
+            color: $oscuro;
+        }
+        width: 180px;
+        text-align: center;
+        margin: 0 auto;
+    }
 }
 
 h1 {
@@ -28,8 +49,6 @@ h1 {
         
     }
     .bootply {
-        width: 100%;
-        display: inline-block;
-        text-align: center;
+    
     }
 }
