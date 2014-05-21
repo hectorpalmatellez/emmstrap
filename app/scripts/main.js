@@ -15,4 +15,10 @@ $(document).ready(function() {
     $('.una-formula.f-bmodal .snippet').attr('value', formulas[0]);
     $('.una-formula.f-modal .snippet').attr('value', formulas[1]);
 
+
+    // Contador de caracteres
+    $('.caracteres').each(function() {
+        $(this).html('<span>' + $(this).parent().find('.snippet').val().length + ' caracteres' + '</span>');
+    });
+
 });
