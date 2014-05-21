@@ -4,13 +4,28 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
 
+@import url(http://fonts.googleapis.com/css?family=Tenor+Sans|Roboto:400,300);
+%tenor-sans {
+    font-family: 'Tenor Sans', sans-serif;
+}
+%roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    @extend %roboto;
+}
+body {
+    @extend %tenor-sans;
+}
+
 h1 {
     text-align: center;
 }
 .un-ejemplo {
     outline: 1px solid red;
     .una-formula {
-        @extend .col-xs-6;
+        
     }
     .bootply {
         width: 100%;
