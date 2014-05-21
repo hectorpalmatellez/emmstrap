@@ -37,6 +37,7 @@ a {
         width: 180px;
         text-align: center;
         margin: 0 auto;
+        clear: both;
     }
 }
 
@@ -44,9 +45,10 @@ h1 {
     text-align: center;
 }
 .un-ejemplo {
-    outline: 1px solid red;
     .una-formula {
-        
+        margin: {
+            bottom: 10px;
+        }
     }
     .bootply {
     
