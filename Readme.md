@@ -5,11 +5,10 @@ La idea es recopilar fórmulas de [Emmet](http://emmet.io/) para [Twitter Bootst
 
 ###Fórmulas incluidas
 
-  * --NINGUNA--
+  * Botón que abre un modal.
   
 ###Fórmulas que deberían incluirse
   * Carrusel con dos _slides_.
-  * Botón que abre un modal.
   * _Dropdown_.
   * Tabs funcionales con contenido.
   * Tooltips (4 alineaciones).
