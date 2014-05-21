@@ -1,4 +1,4 @@
-#Emmstrap
+#[Emmstrap](http://emmstrap.net)
 
 The main objective of this project is to speed up the bootstrapping process using [Twitter Bootstrap](https://github.com/twbs/bootstrap). Since we're civilized enough to use [Emmet](http://emmet.io/), we can do better.
 
@@ -21,3 +21,8 @@ For the development of this project has been used:
 
   * [Emmet's cheatsheet](http://docs.emmet.io/cheat-sheet/).
   * [Bootstrap's Javascript page](http://getbootstrap.com/javascript/).
+  
+_______
+[emmstrap.net](emmstrap.net) - May 21th, 2014
+
+**WTFPL License**
