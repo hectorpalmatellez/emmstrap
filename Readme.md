@@ -25,6 +25,6 @@ For the development of this project has been used:
   * [Yeoman](http://yeoman.io/), with its `webapp` generator.
 
 _______
-[emmstrap.net](emmstrap.net) - May 21th, 2014
+[emmstrap.net](http://emmstrap.net) - May 21th, 2014
 
 **WTFPL License**
