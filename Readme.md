@@ -22,7 +22,8 @@ For the development of this project has been used:
 
   * [Emmet's cheatsheet](http://docs.emmet.io/cheat-sheet/).
   * [Bootstrap's Javascript page](http://getbootstrap.com/javascript/).
-  
+  * [Yeoman](http://yeoman.io/), with its `webapp` generator.
+
 _______
 [emmstrap.net](emmstrap.net) - May 21th, 2014
 
