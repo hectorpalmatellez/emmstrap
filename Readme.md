@@ -6,9 +6,10 @@ The main objective of this project is to speed up the bootstrapping process usin
 
   * Modal + button for it.
   * Tooltips - with its 4 forms.
-
-###Formulœ that should be included (possibly they'll be added soon)
   * Carousel - with 2 slides.
+
+###Formulæ that should be included (possibly they'll be added soon)
+
   * Dropdown example.
   * Tabs - with content.
   * Collapse example.

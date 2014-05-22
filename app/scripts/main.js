@@ -22,7 +22,7 @@ $(document).ready(function() {
     $('.una-formula.tooltipbottom .snippet').attr('value', formulas[5]);
     $('.una-formula.f-carousel .snippet').attr('value', formulas[6]);
 
-
+    $('.copiar').addClass('btn');
 
     // Contador de caracteres
     $('.caracteres').each(function() {
