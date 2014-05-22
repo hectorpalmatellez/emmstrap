@@ -21,6 +21,11 @@ body {
         image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQIW2NkYGD4D8SMQAwGcAY2AbBKDBUAVuYCBQPd34sAAAAASUVORK5CYII=');
     }
 }
+.fb_iframe_widget {
+    width: 96px;
+    overflow-x: hidden;
+    height: 22px;
+}
 a {
     color: $naranjo;
     text-decoration: none;
