@@ -76,11 +76,16 @@ a {
         }
         .snippet {
             width: 66%;
+            height: 34px;
         }
         .copiar {
+            border-radius: 0;
             width: 30%;
             border-color: $amarillo;
             background-color: $amarillo;
+        }
+        .caracteres {
+            color: #ffffff;
         }
     }
     .bootply {
