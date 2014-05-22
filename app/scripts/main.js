@@ -26,7 +26,7 @@ $(document).ready(function() {
 
     // Contador de caracteres
     $('.caracteres').each(function() {
-        $(this).html($(this).parent().find('.snippet').val().length + ' caracteres');
+        $(this).html($(this).parent().find('.snippet').val().length + ' characters');
         $(this).prepend('<br>');
     });
 
