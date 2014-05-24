@@ -9,10 +9,11 @@ The main objective of this project is to speed up the bootstrapping process usin
   * Carousel - with 2 slides.
   * Collapse example.
   * Dropdown example.
+  * Tabs - with content.
 
 ###Formulæ that should be included (possibly they'll be added soon)
 
-  * Tabs - with content.
+  * (Waiting for ideas or suggestions)
 
 ####Credits
 Obviously, [Twitter Bootstrap](https://github.com/twbs/bootstrap) and [Emmet](http://emmet.io/). Also thanks to [zClip](https://github.com/patricklodder/jquery-zclip) for the _copy to clipboard_ function.
