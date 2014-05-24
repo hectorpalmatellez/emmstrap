@@ -8,10 +8,10 @@ The main objective of this project is to speed up the bootstrapping process usin
   * Tooltips - with its 4 forms.
   * Carousel - with 2 slides.
   * Collapse example.
+  * Dropdown example.
 
 ###Formulæ that should be included (possibly they'll be added soon)
 
-  * Dropdown example.
   * Tabs - with content.
 
 ####Credits
