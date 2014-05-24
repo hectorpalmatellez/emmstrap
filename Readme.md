@@ -27,9 +27,9 @@ For the development of this project has been used:
 
 
 ###FAQ
-1. How do I use these formulas?
+1. How do I use these formulæ?
     
-   * You need to have [Emmet](http://emmet.io) installed in your loved code editor. Then copy the formula you want and paste it in a document `.html` (or one that behaves like it), use the command to expand the formula (usually just `tab`) and there you go!
+   * You need to have [Emmet](http://emmet.io) installed in your beloved code editor. Then copy the formula you want and paste it in a document `.html` (or one that behaves like it), use the command to expand the formula (usually just `tab`) and there you go!
    
 2. Why would I need these _formulæ_?
    * In case you're in a hurry and you'd like a cleaner version you can get from the Bootstrap examples. As a plus, they look smarter, according to [my dog](http://instagram.com/p/edH7zGMUXx/).
