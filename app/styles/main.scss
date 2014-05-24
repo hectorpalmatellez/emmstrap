@@ -22,9 +22,9 @@ body {
     }
 }
 .fb_iframe_widget {
-    width: 96px;
+    width: 126px;
     overflow-x: hidden;
-    height: 22px;
+    height: 20px;
 }
 a {
     color: $naranjo;
@@ -105,4 +105,7 @@ a {
             color: #ffffff;
         }
     }
+}
+.twitter-share-button {
+    width: 80px !important;
 }
