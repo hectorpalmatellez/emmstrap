@@ -63,11 +63,14 @@ a {
         text-align: center;
         margin: {
             top: 0;
-            bottom: 10px;
+            bottom: 0;
         }
         color: $verdeoscuro;
         &+span {
             text-align: center;
+            margin: {
+                bottom: 8px;
+            }
             @extend .col-xs-12;
             color: $verdeoscuro;
         }
